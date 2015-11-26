@@ -15,6 +15,7 @@ import android.widget.TextView;
  */
 public class MainActivity extends Activity {
 
+	
     private TextView title;
     private Button btnBitmap, btnViewFinder;
 
